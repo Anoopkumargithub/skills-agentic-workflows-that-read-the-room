@@ -14,6 +14,7 @@ tools:
   github:
     toolsets: [repos]
   web-fetch:
+model: gpt-5.4
 
 network:
   allowed:
