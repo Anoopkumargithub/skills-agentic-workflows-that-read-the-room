@@ -19,6 +19,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 
 safe-outputs:
   create-pull-request:
@@ -36,6 +37,7 @@ Use the web-fetch tool to fetch both:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Review the latest official updates and update `site/content/github-info.md` with short, practical information that helps developers learn GitHub faster. Mention the source whenever an item comes from the GitHub Blog or GitHub Changelog, and preserve Mona's existing editorial angle and Markdown structure.
 
